@@ -1,2 +1,4 @@
 # Taking_off
-## Just as the name suggests, I'm just beginning to start the adventure into the realm of code.
+Just as the name suggests, I'm just beginning the adventure into the realm of code.
+
+Peace :>
